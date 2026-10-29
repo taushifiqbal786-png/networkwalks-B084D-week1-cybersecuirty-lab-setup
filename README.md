@@ -47,12 +47,6 @@ The lab uses a private **NAT Network**, so additional target machines can be add
 
 The lab runs on a **[Windows 11]** host using VirtualBox. Kali Linux runs as a virtual machine attached to a dedicated NAT Network. Future target VMs will join the same network.
 
-<p align="center">
-  <img src="screenshots/1-architecture.png" alt="Lab architecture diagram" width="750">
-  <br>
-  <sub><i>Figure 1: Lab architecture overview</i></sub>
-</p>
-
 ### Host Details
 
 | Component | Specification |
