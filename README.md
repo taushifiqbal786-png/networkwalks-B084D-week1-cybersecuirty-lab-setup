@@ -42,7 +42,7 @@ This repository documents my required Week 1 lab setup and the three optional pr
 | ⭐ Optional 2 | Android-x86 VM | Install Android-x86 in VirtualBox and test network connectivity with Kali Linux. |
 | ⭐ Optional 3 | SOC/Wireshark labs | Complete six browser-based network traffic investigation labs. |
 
-📸 **Screenshots:** [Open the screenshots folder](https://github.com/[YOUR-USERNAME]/[YOUR-REPO-NAME]/tree/main/screenshots)
+📸 **Screenshots:** [Open the screenshots folder](https://github.com/taushifiqbal786-png/networkwalks-B084D-week1-cybersecuirty-lab-setup/tree/main/screenshots)
 
 ---
 
